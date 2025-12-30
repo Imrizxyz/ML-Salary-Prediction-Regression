@@ -25,13 +25,7 @@
 - Model Accuracy: *Approximately 95% - 98%*
 - Example Prediction:  
 **Experience:** 3 years → **Predicted Salary:** ₹30,000 approx
-
----
-## 🚀 How to Run
-1. Clone this repo
-2. Open the notebook in Jupyter Notebook or Google Colab
-3. Run all cells sequentially to see outputs and predictions
-   
+  
 ---
 ## 📊 Visualization
 The model trend line clearly shows correlation between experience & salary.
@@ -45,3 +39,13 @@ This model can help HR teams or businesses estimate pay based on experience benc
 
 ## 🧠 Learning Outcome
 This project demonstrates the fundamentals of **Regression**, **Model Evaluation**, and **Prediction**.
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository to your local system  
+2. Open the notebook file (`salary_prediction.ipynb`) in **Jupyter Notebook** or **Google Colab**  
+3. Run all the cells sequentially from top to bottom  
+4. Change the experience value to predict salary for new data  
+
