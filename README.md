@@ -81,5 +81,4 @@ ML-Salary-Prediction-Regression/
 │
 ├── salary_prediction.ipynb      # Main notebook
 ├── README.md                     # Project documentation
-└── salary_data.csv (optional)    # Dataset if used
 
